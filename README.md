@@ -13,11 +13,7 @@ CSS – Styling and layout
 JavaScript – Interactive elements
 🚀 Getting Started
 Clone the repository:
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/my-cv-website.git
-Open index.html in your browser.
+
 Explore my CV! 📝
 💡 Future Enhancements
 🔹 Add a downloadable PDF version 📄
